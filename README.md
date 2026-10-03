@@ -1,23 +1,20 @@
-I'm a Business Computing student interested in media, design, and technology.
+# About Me
 
+I'm a **3rd-year Business Computing (Business Information Systems) student** focused on software development, web technologies, databases, and information systems.
 
--I work with **DaVinci Resolve** for video editing — from cinematic sequences to short-form content.  
--I use tools like **Photoshop** and **Illustrator** for graphic design, and I'm currently exploring **game development** with Unity.  
--I enjoy learning through building projects and experimenting with creative tools.
-
----
+I'm currently working on academic and personal projects while developing my technical skills and exploring different areas of software and technology.
 
 ## Skills & Tools
 
-- **Video Editing**: DaVinci Resolve, Fusion
-- **Design**: Photoshop, Illustrator
-- **Game Development**: Unity, C#
-- **Code Basics**: currenty learning web dev, can code in C and python
-
----
+* **Programming:** C, Python, Java, C#, Visual Basic
+* **Web Development:** HTML, CSS, JavaScript, PHP
+* **Databases:** SQL
+* **Business Computing:** Information Systems, Databases, Software Development
+* **Game Development:** Unity
+* **Design & Media:** DaVinci Resolve, Fusion, Photoshop, Illustrator
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/adam-guinichi-218038285/)
-- Email:adamgnichi@gmail.com
-- [My Portfolio](https://adam-guinichi.github.io/portfolio/)
+* **LinkedIn:** https://www.linkedin.com/in/adam-guinichi-218038285/
+* **Email:** [adamgnichi@gmail.com](mailto:adamgnichi@gmail.com)
+* **Portfolio:** https://adam-guinichi.github.io/portfolio/
