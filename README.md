@@ -18,3 +18,5 @@ I'm currently working on academic and personal projects while developing my tech
 * **LinkedIn:** https://www.linkedin.com/in/adam-guinichi-218038285/
 * **Email:** [adamgnichi@gmail.com](mailto:adamgnichi@gmail.com)
 * **Portfolio:** https://adam-guinichi.github.io/portfolio/
+* **Itch.io profile:** https://adam-guinichi.itch.io/
+
