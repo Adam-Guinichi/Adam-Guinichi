@@ -2,8 +2,6 @@
 
 I'm a **3rd-year Business Computing (Business Information Systems) student** focused on software development, web technologies, databases, and information systems.
 
-I'm currently working on academic and personal projects while developing my technical skills and exploring different areas of software and technology.
-
 ## Skills & Tools
 
 * **Programming:** C, Python, Java, C#, Visual Basic
