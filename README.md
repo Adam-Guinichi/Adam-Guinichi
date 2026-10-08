@@ -15,6 +15,6 @@ I'm a **3rd-year Business Computing (Business Information Systems) student** foc
 
 * **LinkedIn:** https://www.linkedin.com/in/adam-guinichi-218038285/
 * **Email:** [adamgnichi@gmail.com](mailto:adamgnichi@gmail.com)
-* **Portfolio:** https://adam-guinichi.github.io/portfolio/
+* **Portfolio:** [https://adam-guinichi.github.io/portfolio/](https://adam-guinichi.github.io/portfolio-under-construction/)
 * **Itch.io profile:** https://adam-guinichi.itch.io/
 
