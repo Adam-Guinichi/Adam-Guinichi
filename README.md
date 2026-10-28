@@ -12,7 +12,7 @@
 
 ---
 
-### `> whoami`
+### `> who am i`
 
 Third-year **Business Computing student** at the Higher Institute of Management of Tunis (ISGT), specializing in Business Information Systems.
 
