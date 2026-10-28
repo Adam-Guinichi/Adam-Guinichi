@@ -26,7 +26,7 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/%3E- F45170?style=flat-square&labelColor=101014" height="23" alt=""/> `whoami`
+## `who am i`
 
 <table>
 <tr>
