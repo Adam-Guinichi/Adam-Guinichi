@@ -1,205 +1,129 @@
-<!--
-    ADAM GUINICHI | GITHUB PROFILE README
-    Theme: Coral Pink #F45170 + Midnight Black #101014
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:101014,50:F45170,100:101014&text=Adam%20Guinichi&fontColor=ffffff&fontSize=55&fontAlignY=45&desc=Business%20Computing%20%7C%20Software%20Development&descAlignY=65&descSize=16&animation=fadeIn" width="100%" alt="Animated profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101014,100:F45170&height=180&section=header&text=Adam%20Guinichi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Business%20Computing%20Student%20%7C%20ISGT%20Tunis&descSize=16&descAlignY=58" width="100%" alt="Header"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=F45170&center=true&vCenter=true&width=550&lines=Software+Development;Web+Technologies+%26+Databases;Business+Information+Systems" alt="Typing animation"/>
 
-<a href="https://adam-guinichi.github.io/portfolio-under-construction/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=F45170&center=true&vCenter=true&width=650&lines=Business+Computing+Student+%F0%9F%8E%93;Full-Stack+%26+Application+Development+%F0%9F%92%BB;Exploring+Web%2C+Databases+%26+Networking+%F0%9F%8C%90;Turning+ideas+into+working+software+%E2%9C%A8" alt="Typing animation"/>
-</a>
+<br>
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20PFE%20INTERNSHIP-F45170?style=for-the-badge&labelColor=101014" alt="Open to internship"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-F45170?style=for-the-badge&labelColor=101014" alt="Software development"/>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-101014?style=for-the-badge\&logo=googlechrome\&logoColor=F45170)](https://adam-guinichi.github.io/portfolio-under-construction/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101014?style=for-the-badge\&logo=linkedin\&logoColor=F45170)](https://www.linkedin.com/in/adam-guinichi-218038285/)
-[![Itch.io](https://img.shields.io/badge/ITCH.IO-101014?style=for-the-badge\&logo=itch.io\&logoColor=F45170)](https://adam-guinichi.itch.io/)
-[![Email](https://img.shields.io/badge/EMAIL-101014?style=for-the-badge\&logo=gmail\&logoColor=F45170)](mailto:adamgnichi@gmail.com)
+<a href="https://adam-guinichi.github.io/portfolio-under-construction/"><img src="https://img.shields.io/badge/Portfolio-101014?style=flat-square&logo=googlechrome&logoColor=F45170" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/adam-guinichi-218038285/"><img src="https://img.shields.io/badge/LinkedIn-101014?style=flat-square&logo=linkedin&logoColor=F45170" alt="LinkedIn"/></a> <a href="https://adam-guinichi.itch.io/"><img src="https://img.shields.io/badge/Itch.io-101014?style=flat-square&logo=itch.io&logoColor=F45170" alt="Itch.io"/></a> <a href="mailto:adamgnichi@gmail.com"><img src="https://img.shields.io/badge/Email-101014?style=flat-square&logo=gmail&logoColor=F45170" alt="Email"/></a>
 
 </div>
 
 ---
 
-## `> whoami`
+### `> whoami`
 
-<img align="right" width="130" src="https://raw.githubusercontent.com/Adam-Guinichi/Adam-Guinichi/main/assets/avatar.png" alt="Adam's avatar"/>
+Third-year **Business Computing student** at the Higher Institute of Management of Tunis (ISGT), specializing in Business Information Systems.
 
-Hey! I'm **Adam Guinichi**, a third-year Business Computing student at the **Higher Institute of Management of Tunis (ISGT)**, specializing in Business Information Systems.
+Interested in software development, web technologies, databases, and building practical applications.
 
-I'm interested in building useful software, developing web applications, managing data, and exploring the connections between technology and business.
-
-* 🎓 Business Computing & Business Information Systems
-* 💻 Interested in software engineering and full-stack development
-* 🌐 Exploring web technologies, databases, and networking
-* 🎮 Building interactive experiences with Unity
-* 🎨 Creating visual content, motion graphics, and video edits
-* 🚀 Looking for a **PFE (end-of-studies) internship**
-
-<br clear="right"/>
+* 🎓 Business Information Systems
+* 💻 Web & application development
+* 🌐 Databases & networking
+* 🎯 Seeking a PFE internship
 
 ---
 
-## `> tech_stack`
+### `> tech_stack`
 
-### Programming Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,java,cs&theme=dark" alt="C, Python, Java and C sharp"/>
-</p>
+![C](https://img.shields.io/badge/C-101014?style=flat-square\&logo=c\&logoColor=F45170)
+![Python](https://img.shields.io/badge/Python-101014?style=flat-square\&logo=python\&logoColor=F45170)
+![Java](https://img.shields.io/badge/Java-101014?style=flat-square\&logo=openjdk\&logoColor=F45170)
+![CSharp](https://img.shields.io/badge/C%23-101014?style=flat-square\&logo=csharp\&logoColor=F45170)
+![VB](https://img.shields.io/badge/Visual%20Basic-101014?style=flat-square\&logo=dotnet\&logoColor=F45170)
 
-### Web Development
+**Web Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,django&theme=dark" alt="HTML, CSS, JavaScript, PHP, React and Django"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-101014?style=flat-square\&logo=html5\&logoColor=F45170)
+![CSS3](https://img.shields.io/badge/CSS3-101014?style=flat-square\&logo=css3\&logoColor=F45170)
+![JavaScript](https://img.shields.io/badge/JavaScript-101014?style=flat-square\&logo=javascript\&logoColor=F45170)
+![PHP](https://img.shields.io/badge/PHP-101014?style=flat-square\&logo=php\&logoColor=F45170)
+![React](https://img.shields.io/badge/React-101014?style=flat-square\&logo=react\&logoColor=F45170)
+![Django](https://img.shields.io/badge/Django-101014?style=flat-square\&logo=django\&logoColor=F45170)
 
-### Databases, Mobile & Tools
+**Databases, Mobile & Development Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,androidstudio,unity,git,github,vscode&theme=dark" alt="Databases and development tools"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-101014?style=flat-square\&logo=mysql\&logoColor=F45170)
+![SQLite](https://img.shields.io/badge/SQLite-101014?style=flat-square\&logo=sqlite\&logoColor=F45170)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-101014?style=flat-square\&logo=androidstudio\&logoColor=F45170)
+![Unity](https://img.shields.io/badge/Unity-101014?style=flat-square\&logo=unity\&logoColor=F45170)
+![Git](https://img.shields.io/badge/Git-101014?style=flat-square\&logo=git\&logoColor=F45170)
+![GitHub](https://img.shields.io/badge/GitHub-101014?style=flat-square\&logo=github\&logoColor=F45170)
 
-### Creative Tools
+**Creative Tools**
 
-<p>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-101014?style=flat-square&logo=davinciresolve&logoColor=F45170"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-101014?style=flat-square&logo=adobephotoshop&logoColor=F45170"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-101014?style=flat-square&logo=adobeillustrator&logoColor=F45170"/>
-<img src="https://img.shields.io/badge/Fusion-101014?style=flat-square&logo=blackmagicdesign&logoColor=F45170"/>
-</p>
-
-> Also exploring algorithms, data structures, problem-solving, Android development with Java/Kotlin, and network simulation.
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-101014?style=flat-square\&logo=davinciresolve\&logoColor=F45170)
+![Fusion](https://img.shields.io/badge/Fusion-101014?style=flat-square\&logo=blackmagicdesign\&logoColor=F45170)
+![Photoshop](https://img.shields.io/badge/Photoshop-101014?style=flat-square\&logo=adobephotoshop\&logoColor=F45170)
+![Illustrator](https://img.shields.io/badge/Illustrator-101014?style=flat-square\&logo=adobeillustrator\&logoColor=F45170)
+![Affinity](https://img.shields.io/badge/Affinity-101014?style=flat-square\&logo=affinity\&logoColor=F45170)
 
 ---
 
-## `> featured_projects`
+### `> featured_projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 Agricultural Employment Platform
+**🌾 Agricultural Employment Platform**
 
-A web platform connecting agricultural employers with workers.
+A web platform connecting agricultural employers with workers through job postings and applications.
 
-* Employer and worker roles
-* Job postings and applications
-* PHP and MySQL backend
-* HTML, CSS, and JavaScript interface
-
-**Stack:** `PHP` `MySQL` `JavaScript`
+`PHP` `MySQL` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Travel Management Application
+**✈️ Travel Management Application**
 
-An application designed to organize travel-related information and simplify management tasks.
+An application for managing routes, clients, bookings, and seat availability.
 
-* Route management
-* Client management
-* Booking management
-* Seat availability tracking
-
-**Focus:** `Application Development` `Data Management`
+`Application Development` `Data Management`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Connected Campus Simulation
+**🌐 Connected Campus Simulation**
 
-A networking project modeling a connected campus using Cisco Packet Tracer.
+A simulated connected campus exploring networking and IoT concepts.
 
-* Network topology simulation
-* Connected infrastructure concepts
-* Introduction to IoT systems
-
-**Focus:** `Networking` `Cisco Packet Tracer` `IoT`
+`Cisco Packet Tracer` `Networking` `IoT`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Unity Game Prototypes
+**🎮 Unity Game Prototypes**
 
-Personal experiments exploring game development and interactive experiences.
+Personal experiments in gameplay mechanics and interactive environments.
 
-* Gameplay mechanics
-* Interactive environments
-* Prototyping and debugging
-
-**Stack:** `Unity` `C#`
+`Unity` `C#`
 
 </td>
 </tr>
 </table>
 
+---
+
+### `> github_stats`
+
 <div align="center">
 
-*More projects and experiments are available in my repositories.*
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Adam-Guinichi&show_icons=true&hide_border=true&bg_color=101014&title_color=F45170&icon_color=F45170&text_color=EAEAEA" alt="GitHub Stats"/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Guinichi&layout=compact&hide_border=true&bg_color=101014&title_color=F45170&text_color=EAEAEA" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## `> github_stats`
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adam-Guinichi&show_icons=true&hide_border=true&bg_color=101014&title_color=F45170&icon_color=F45170&text_color=EAEAEA&ring_color=F45170" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Guinichi&layout=compact&hide_border=true&bg_color=101014&title_color=F45170&text_color=EAEAEA" alt="Most used programming languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-Guinichi&hide_border=true&background=101014&stroke=F45170&ring=F45170&fire=F45170&currStreakLabel=F45170&sideLabels=EAEAEA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `> beyond_the_code`
-
-When I'm not coding, I enjoy exploring creative tools and working on visual projects.
-
-🎬 Video editing & color grading
-🎨 Graphic design & motion graphics
-🎮 Game development & interactive experiences
-🧠 Problem-solving & learning new technologies
-
----
-
-## `> let's_connect`
-
-I'm always happy to connect with other developers, collaborate on projects, and explore internship opportunities.
-
-<div align="center">
-
-<a href="mailto:adamgnichi@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-101014?style=for-the-badge&logo=github&logoColor=F45170" alt="Let's build something"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/adam-guinichi-218038285/">LinkedIn</a>
-  ·   <a href="https://adam-guinichi.github.io/portfolio-under-construction/">Portfolio</a>
-  ·   <a href="https://adam-guinichi.itch.io/">Itch.io</a>
-  ·   <a href="mailto:adamgnichi@gmail.com">Email</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F45170&height=100&section=footer" width="100%" alt="Pink animated-style footer"/>
-
-<sub>Designed with curiosity, coffee, and a little bit of pink. ♡</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101014,100:F45170&height=90&section=footer" width="100%" alt="Footer"/>
 
 </div>
