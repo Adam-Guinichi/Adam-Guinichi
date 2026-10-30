@@ -100,9 +100,7 @@ Interested in software development, web technologies, databases, and building pr
 
 <br/><br/>
 
-<a href="https://github.com/Adam-Guinichi">
-  <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-Guinichi&hide_border=true&background=101014&stroke=F45170&ring=F45170&fire=F45170&currStreakLabel=F45170&sideLabels=EAEAEA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" alt="GitHub Contribution Streak"/>
-</a>
+
 
 </div>
 
