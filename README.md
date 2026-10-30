@@ -39,13 +39,13 @@ Interested in software development, web technologies, databases, and building pr
 </td>
 <td width="42%" valign="top">
 
-🎓   Business Information Systems
+🎓   Business Information Systems
 
-💻   Web & application development
+💻   Web & application development
 
-🗄️   Databases & networking
+🗄️   Databases & networking
 
-🎯   Seeking a PFE internship
+🎯   Seeking a PFE internship
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ Interested in software development, web technologies, databases, and building pr
 <div align="center">
 
 <a href="https://github.com/Adam-Guinichi">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Adam-Guinichi&show_icons=true&hide_border=true&bg_color=101014&title_color=F45170&icon_color=F45170&text_color=EAEAEA&ring_color=F45170" alt="GitHub Statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Adam-Guinichi&show_icons=true&hide_border=true&theme=transparent&title_color=F45170&icon_color=F45170&text_color=EAEAEA&ring_color=F45170" alt="GitHub Statistics"/>
 </a>
 &nbsp;
 <a href="https://github.com/Adam-Guinichi">
