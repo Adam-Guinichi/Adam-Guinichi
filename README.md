@@ -39,13 +39,12 @@ Interested in software development, web technologies, databases, and building pr
 </td>
 <td width="42%" valign="top">
 
-🎓   Business Information Systems
+-   Business Information Systems
 
-💻   Web & application development
+-   Web & application development
 
-🗄️   Databases & networking
+-   Databases & networking
 
-🎯   Seeking a PFE internship
 
 </td>
 </tr>
