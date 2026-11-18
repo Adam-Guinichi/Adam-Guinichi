@@ -11,28 +11,9 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### Who I am
-
-Third-year **Business Computing student** at the Higher Institute of Management of Tunis (ISGT), specializing in Business Information Systems.
-
-Interested in software development, web technologies, databases, and building practical applications.
-
-</td>
-<td width="42%" valign="top">
-
-### Focus
-
-- Business Information Systems
-- Web & application development
-- Databases & networking
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="Who I am — Third-year Business Computing student at the Higher Institute of Management of Tunis (ISGT), specializing in Business Information Systems. Interested in software development, web technologies, databases, and building practical applications. Focus: Business Information Systems; Web &amp; application development; Databases &amp; networking."/>
+</p>
 
 <br/>
 
